@@ -8,7 +8,7 @@ import javafx.scene.image.ImageView;
 import javafx.scene.paint.Color;
 
 /**
- * @author Krzysztof
+ * @author Krzysztof Fyrla
  * @project ImageEditor
  */
 public class EditImage {

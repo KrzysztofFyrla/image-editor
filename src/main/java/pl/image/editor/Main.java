@@ -8,7 +8,7 @@ import javafx.scene.image.Image;
 import javafx.stage.Stage;
 
 /**
- * @author Krzysztof
+ * @author Krzysztof Fyrla
  * @project ImageEditor
  */
 public class Main extends Application {

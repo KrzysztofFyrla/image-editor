@@ -21,7 +21,7 @@ import java.net.URL;
 import java.util.ResourceBundle;
 
 /**
- * @author Krzysztof
+ * @author Krzysztof Fyrla
  * @project ImageEditor
  */
 public class WindowEditorController implements Initializable {
